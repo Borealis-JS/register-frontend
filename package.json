@@ -1,0 +1,13 @@
+{
+  "name": "register-frontend",
+  "version": "1.0.0",
+  "description": "Frontend registration software for Borealis.",
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": "^18"
+  },
+  "dependencies": {},
+  "author": "Borealis",
+  "license": "MIT"
+}
