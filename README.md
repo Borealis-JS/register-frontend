@@ -5,6 +5,7 @@ Frontend registration software for Borealis.
 # Notes
 
 - `npm create vite@latest`
+- [MUI with React Final Form](https://github.com/lookfirst/mui-rff)
 - [React Final Form examples](https://final-form.org/docs/react-final-form/examples)
 - [Floating-UI React](https://floating-ui.com/docs/react)
 - [MUI form props](https://mui.com/material-ui/react-text-field/#form-props)
